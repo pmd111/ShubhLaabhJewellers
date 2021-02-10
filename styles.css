@@ -103,7 +103,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a6000000', e
 
 #features {
   position: relative;
-  background-image: url("C:\\Users\\Prateek\\Desktop\\shubh\\TinDog Completed Website\\images\\jewel2.jpg");
+  background-image: url("jewel2.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
@@ -205,49 +205,11 @@ p{
 }
 
 #cta{
-  background-image: url("C:\\Users\\Prateek\\Desktop\\shubh\\TinDog Completed Website\\images\\1.jpg");
+  background-image: url("1.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 .container {
   max-width: 960px;
 }
@@ -270,10 +232,6 @@ p{
   text-decoration: none;
 }
 
-/*
- * Dummy devices (replace them with your own or something else entirely!)
- */
-
 .product-device {
   position: absolute;
   right: 10%;
@@ -293,7 +251,7 @@ p{
   left: 10px;
   content: "";
   background-color: rgba(255, 255, 255, .1);
-  background-image: url("C:\\Users\\Prateek\\Desktop\\shubh\\TinDog Completed Website\\images\\download.jpg");
+  background-image: url("download.jpg");
   background-repeat: repeat;
   border-radius: 5px;
 }
@@ -310,50 +268,50 @@ p{
   z-index: 1;
 }
 .one{
-  background-image: url("C:\\Users\\Prateek\\Desktop\\shubh\\TinDog Completed Website\\images\\jewel1.jpg");
+  background-image: url("jewel1.jpg");
   background-repeat: no-repeat;
   background-size: cover;
    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 .two{
-  background-image: url("C:\\Users\\Prateek\\Desktop\\shubh\\TinDog Completed Website\\images\\ring.jpg");
+  background-image: url("ring.jpg");
   background-repeat: no-repeat;
   background-size: cover;
    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 .three{
-  background-image: url("C:\\Users\\Prateek\\Desktop\\shubh\\TinDog Completed Website\\images\\jewel4.jpg");
+  background-image: url("jewel4.jpg");
   background-repeat: no-repeat;
   background-size: cover;
    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 .four{
-  background-image: url("C:\\Users\\Prateek\\Desktop\\shubh\\TinDog Completed Website\\images\\bangle.jpg");
+  background-image: url("bangle.jpg");
   background-repeat: no-repeat;
   background-size: cover;
    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 .five{
-  background-image: url("C:\\Users\\Prateek\\Desktop\\shubh\\TinDog Completed Website\\images\\neclace2.jpg");
+  background-image: url("neclace2.jpg");
   background-repeat: no-repeat;
   background-size: cover;
    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 .six{
-  background-image: url("C:\\Users\\Prateek\\Desktop\\shubh\\TinDog Completed Website\\images\\bangle1.jpg");
+  background-image: url("bangle1.jpg");
   background-repeat: no-repeat;
   background-size: cover;
    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 
 }
 .seven{
-  background-image: url("C:\\Users\\Prateek\\Desktop\\shubh\\TinDog Completed Website\\images\\jewel3.jpg");
+  background-image: url("jewel3.jpg");
   background-repeat: no-repeat;
   background-size: cover;
    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 .eight{
-  background-image: url("C:\\Users\\Prateek\\Desktop\\shubh\\TinDog Completed Website\\images\\crown.jpg");
+  background-image: url("crown.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
